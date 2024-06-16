@@ -7,3 +7,8 @@ In the United States, the Centers for Disease Control and Prevention is a good r
 - Coronary heart disease (CHD) is the most common type of heart disease, killing over 370,000 people annually.
 - Every year about 735,000 Americans have a heart attack. Of these, 525,000 are a first heart attack and 210,000 happen in people who have already had a heart attack.
 - Heart disease is the leading cause of death for people of most ethnicities in the United States, including African Americans, Hispanics, and whites. For American Indians or Alaska Natives and Asians or Pacific Islanders, heart disease is second only to cancer.
+
+Aim our Project :- 
+Our goal is to predict the Binary class "heart disease present", which represents whether or not a patient has heart disease.
+- 0 represents no heart disease present.
+- 1 represents heart disease present.
