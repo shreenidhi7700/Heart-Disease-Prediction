@@ -11,5 +11,9 @@ In the United States, the Centers for Disease Control and Prevention is a good r
 
 ## **Aim our Project :-**
 Our goal is to predict the Binary class "heart disease present", which represents whether or not a patient has heart disease.
-- 0 represents no heart disease present.
-- 1 represents heart disease present.
+- **0** represents **no presence of heart disease**.
+- **1** represents **presence of heart disease**.
+
+## **Suggestions from you**
+### **Feel free to give us any suggestions regarding improvisation /corrections of our code or any mistakes/procedures done incorrectly in our project notebook. We are in the path of learning and understanding the concept of Machine learning, so any feedback regarding this topic from any of you who worked in these type of projects is beneficial to us in correcting our mistakes and implementing the recorrected procedures to our project.** 
+
