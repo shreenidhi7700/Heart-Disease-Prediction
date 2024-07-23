@@ -13,7 +13,7 @@ In the United States, the Centers for Disease Control and Prevention is a good r
 
 ## Data is provided courtesy of the **Cleveland Heart Disease Database** via the **UCI Machine Learning** repository.
 
-## **Aim our Project:**
+## **Aim of our Project:**
 Our goal is to predict the Binary class "heart disease present", which represents whether or not a patient has heart disease.
 - **0** represents **no presence of heart disease**.
 - **1** represents **presence of heart disease**.
