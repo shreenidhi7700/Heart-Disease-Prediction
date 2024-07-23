@@ -13,7 +13,7 @@ In the United States, the Centers for Disease Control and Prevention is a good r
 
 ## Data is provided courtesy of the **Cleveland Heart Disease Database** via the **UCI Machine Learning** repository.
 
-## **Aim our Project:*
+## **Aim our Project:**
 Our goal is to predict the Binary class "heart disease present", which represents whether or not a patient has heart disease.
 - **0** represents **no presence of heart disease**.
 - **1** represents **presence of heart disease**.
@@ -25,7 +25,7 @@ Deep learning models such as **Tensorflow-keras Sequential model** had to be use
 - All the ML algorithms performed exceptionally well for our dataset by classifying all appropriate patients with or without heart disease. Especially among those models **Random Forest classifier** and **Gradient boosting classifier** gave us the best results for our project.
 - Both **Random forest classifier** and **Gradient boosting classifier** models achieved an accuracy score of **0.917**, F1_score of **0.914**, Precision score of **0.842** and Recall score of **1.0**.
 - Both the models performed really well on **Cross-Validation** of 10 folds. Random-forest-classifier model has a cross-validation score of **0.82**, and Gradient-boosting-classifier has a cross-validation score of **0.80**.
-- Deep learning model(**Tensorflow-keras sequential model**) used gave us an accuracy score of ****,precision of ****, recall of **** and f1_score of ****.
+- Deep learning model(**Tensorflow-keras sequential model**) used gave us an accuracy score of **0.861**,precision of **0.824**, recall of **0.875** and f1_score of **0.848**.
 - We recommended to use either of the two models(**Random forest classifier or Gradient boosting classifier**) for our project.
 
 ## **Suggestions from you:**
