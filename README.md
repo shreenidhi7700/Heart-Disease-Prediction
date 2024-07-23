@@ -15,8 +15,8 @@ In the United States, the Centers for Disease Control and Prevention is a good r
 
 ## **Aim our Project:**
 Our goal is to predict the Binary class "heart disease present", which represents whether or not a patient has heart disease.
-- **0** represents **no presence of heart disease**.
-- **1** represents **presence of heart disease**.
+-- **0** represents **no presence of heart disease**.
+-- **1** represents **presence of heart disease**.
 * We have to use several machine learning algorithms for our project such as support vector machines, linear-SVC, logistic regression, K-nearest neighbors, decision trees, Random forest and Xgboost classifier, and choose the model that works best for our dataset/project.
 
 * Deep learning models such as **Tensorflow-keras Sequential model** had to be used in our project, to determine its capability in classifying a patient with or without heart disease.
