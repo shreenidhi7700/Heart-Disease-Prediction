@@ -18,16 +18,16 @@ Our goal is to predict the Binary class "heart disease present", which represent
 - **0** represents **no presence of heart disease**.
 - **1** represents **presence of heart disease**.
 
-We have to use several machine learning algorithms for our project such as support vector machines, linear-SVC, logistic regression, K-nearest neighbors, decision trees, Random forest and Xgboost classifier, and choose the model that works best for our dataset/project.
+We have to use several machine learning algorithms for our project such as support vector machines, linear-SVC, logistic regression, K-nearest neighbors, decision trees, Random forest, and Xgboost classifier, and choose the model that works best for our dataset/project.
 
 Deep learning models such as **Tensorflow-keras Sequential model** had to be used in our project, to determine its capability in classifying a patient with or without heart disease.
 
 ## **Results from our Project:**
-- All the ML algorithms performed exceptionally well for our dataset by classifying all appropriate patients with or without heart disease. Especially among those models **Random Forest classifier** and **Gradient boosting classifier** gave us the best results for our project.
+- All the ML algorithms performed exceptionally well for our dataset by classifying all appropriate patients with or without heart disease. Especially among those models **Random Forest classifier** and **Gradient boosting classifier** gave the best results for our project.
 - Both **Random forest classifier** and **Gradient boosting classifier** models achieved an accuracy score of **0.917**, F1_score of **0.914**, Precision score of **0.842** and Recall score of **1.0**.
-- Both the models performed really well on **Cross-Validation** of 10 folds. Random-forest-classifier model has a cross-validation score of **0.82**, and Gradient-boosting-classifier has a cross-validation score of **0.80**.
+- Both the models performed well on **Cross-Validation** of 10 folds. Random-forest-classifier model has a cross-validation score of **0.82**, and Gradient-boosting-classifier has a cross-validation score of **0.80**.
 - Deep learning model(**Tensorflow-keras sequential model**) used gave us an accuracy score of **0.861**,precision of **0.824**, recall of **0.875** and f1_score of **0.848**.
-- We recommended to use either of the two models(**Random forest classifier or Gradient boosting classifier**) for our project.
+- We recommended either of the two models(**Random forest classifier or Gradient boosting classifier**) for our project.
 
 ## **Suggestions from you:**
 **Feel free to give us any suggestions regarding improvisation /corrections of our code or any mistakes/procedures done incorrectly in our project notebook. We are on the path of learning and understanding the concept of Machine learning and Data_science, so any feedback regarding this topic from any of you who worked in these types of projects is beneficial to us in correcting our mistakes and implementing the right procedures for our project.** 
